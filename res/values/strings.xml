@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="settings">Introduzca la URL del navegador a bloquear (v1.2)</string>
+	<string name="app_name">FITUR Castilla y León</string>
+	<string name="go">Ir al navegador bloqueado</string>
+	<string name="defaultURL">http://www.fiturcastillayleon.com/feriaturiscyl/productos/museos
+	</string>
+	<string name="salir">Salir
+	</string>
+	<string name="packages">es.nhpatt</string>
+	<string name="eliminar">Eliminar caché y datos</string>
+</resources>
